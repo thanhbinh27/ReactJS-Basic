@@ -4,7 +4,7 @@ import Slider from "../components/Slider";
 export default function Index() {
     return (
         <>
-            <Slider pictures={pictures} />
+            <Slider pics={pictures} />
         </>
     );
 }
