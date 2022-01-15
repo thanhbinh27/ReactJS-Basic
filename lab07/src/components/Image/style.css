@@ -1,0 +1,15 @@
+img {
+    width: 100%;
+    margin: 1.15%;
+}
+
+/* 
+img:hover {
+    width: 25%;
+    margin: 2.65%;
+    cursor: pointer;
+    -webkit-transform: width 2s ease-out;
+    -moz-transition: width 0.2s ease-out;
+    -o-transform: width 0.2s ease-out;
+    transition: width 0.2 ease-out;
+} */
